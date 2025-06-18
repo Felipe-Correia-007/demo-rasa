@@ -1,3 +1,4 @@
 # demo-rasa
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuidoLGMainardi/demo-rasa/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Felipe-Correia-007/demo-rasa/HEAD
